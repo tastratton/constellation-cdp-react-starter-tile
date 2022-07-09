@@ -15,7 +15,7 @@
     "onsenui": "2.10.8",
     "react": "17.0.2 ",
     "react-dom": "17.0.2",
-    "react-onsenui": "1.11.2"
+    "react-onsenui": "1.12.0"
   },
   "devDependencies": {
     "@babel/core": "7.17.8",
